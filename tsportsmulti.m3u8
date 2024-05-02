@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Tsports iptv
 #EXTVLCOPT:network-caching=1000
 http://103.151.60.214:7444/1101/video.m3u8
-#EXTINF:-1, Tsports himel op(720p)
 #EXTVLCOPT:network-caching=1000
 https://himel-op.top/portal/cooltvopp.m3u8?id=10432
-#EXTINF:-1, Tsports xtv(1080p)
 #EXTVLCOPT:network-caching=1000
 http://xtv.ooo:8080/adnankb2006/86057314/167590
-#EXTINF:-1, Tsports freeiptv(1920p)
 #EXTVLCOPT:network-caching=1000
 https://freeiptv25.netlify.app/live/app/Tsports/index.m3u8?token=freeiptv25
