@@ -1,7 +1,14 @@
+#EXTM3U
+
+                Toffee
+
 #EXTINF:-1 group-title="Toffee",Toffee Eng
 https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-1
 #EXTINF:-1 group-title="Toffee",Toffee Ban 
 https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-2
+
+              Homeip & VIP
+
 #EXTINF:-1 group-title="Homeip",Sky Sports cricket 
 http://homeip.biz/team_Cc/index.m3u8
 #EXTINF:-1 group-title="Vip",Sky Sports cricket 
@@ -40,6 +47,8 @@ http://homeip.biz/IN_SNT2/index.m3u8
 #EXTINF:-1 group-title="Homeip",Sony Ten 3
 http://homeip.biz/tenso3/index.m3u8
 
+                 Zing
+
 #EXTINF:-1 group-title="Zing",Star Sports 1
 http://103.120.172.74:4600
 #EXTINF:-1 group-title="Zing",Star Sports 2
@@ -57,6 +66,7 @@ http://103.120.172.74:1110/
 #EXTINF:-1 group-title="Zing",Sports 18
 http://103.120.172.74:5500
 
+                 Wifi
 
 #EXTINF:-1 group-title="Wifi",Live Sports WiFi 
 http://50.50.50.60:8088/101/index.m3u8
@@ -79,6 +89,21 @@ http://50.50.50.60:8088/121/index.m3u8
 #EXTINF:-1 group-title="Wifi",Ptv sports wifi
 http://50.50.50.60:8088/125/index.m3u8
 
+                Sansat
 
 #EXTINF:-1 group-title="Sansat",Star Sports 1
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/93724.ts
+#EXTINF:-1 group-title="Sansat",Star Sports 2
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/93726.ts
+#EXTINF:-1 group-title="Sansat",Star Sports 3
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/93727.ts
+#EXTINF:-1 group-title="Sansat",Star Sports Select 1
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/93729.ts
+#EXTINF:-1 group-title="Sansat",Star Sports Select 2
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/93730.ts
+#EXTINF:-1 group-title="Sansat",Ten Sports 
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/93418.ts
+#EXTINF:-1 group-title="Sansat",Astro Cricket 
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/semxy.m3u8?id=58129
+#EXTINF:-1 group-title="Sansat",Willow HD
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/93735.ts
