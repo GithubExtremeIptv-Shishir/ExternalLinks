@@ -28,7 +28,7 @@ https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
 
 #EXTINF:-1 group-title="Homeip",Star Sports 3
 http://homeip.biz/IN_ST3_HD/index.m3u8
-#EXTINF:-1 tvg-logo="Homeip" ,Star Sports Select  2
+#EXTINF:-1 group-title="Homeip" ,Star Sports Select  2
 http://homeip.biz/IND_SL2/index.m3u8
 
 #EXTINF:-1 group-title="Homeip",Tsports 
