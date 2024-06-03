@@ -18,18 +18,18 @@ http://flbl1.112421.net:8082/361988/mpegts?token=GWV3XREOPY
 http://flbl1.112421.net:8082/4153883/mpegts?token=GWV3XREOPY
 #EXTINF:-1 group-title="Vip",PTV Sports 
 http://flbl1.112421.net:8082/4153868/mpegts?token=GWV3XREOPY
+#EXTINF:-1 group-title="Homeip" ,A sports 
+http://homeip.biz/PK_PS/index.m3u8
+#EXTINF:-1 group-title="Homeip",Geo Super 
+http://homeip.biz/tan16450/index.m3u8
+
 #EXTINF:-1 group-title="Bdip" ,Star Sports 1
 https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
-#EXTINF:-1 group-title="Zing",Star Sports 1
-http://103.120.172.74:4600
 
 #EXTINF:-1 group-title="Homeip",Star Sports 3
 http://homeip.biz/IN_ST3_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="Homeip" ,Star Sports Select  2
 http://homeip.biz/IND_SL2/index.m3u8
-#EXTINF:-1 group-title="Zing",Star Sports Select 
-http://103.120.172.74:4700 
 
 #EXTINF:-1 group-title="Homeip",Tsports 
 http://humsab.xyz/GBanTv/index.m3u8
@@ -40,6 +40,23 @@ http://homeip.biz/IN_SNT2/index.m3u8
 #EXTINF:-1 group-title="Homeip",Sony Ten 3
 http://homeip.biz/tenso3/index.m3u8
 
+#EXTINF:-1 group-title="Zing",Star Sports 1
+http://103.120.172.74:4600
+#EXTINF:-1 group-title="Zing",Star Sports 2
+http://103.120.172.74:4200/
+#EXTINF:-1 group-title="Zing",Star Sports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1 group-title="Zing",Star Sports Select 2
+http://103.120.172.74:4700
+#EXTINF:-1 group-title="Zing",Sony Ten 1
+http://103.120.172.74:1140
+#EXTINF:-1 group-title="Zing",Sony Ten 2
+http://103.120.172.74:4800 
+#EXTINF:-1 group-title="Zing",Sony Ten 5
+http://103.120.172.74:1110/
+#EXTINF:-1 group-title="Zing",Sports 18
+http://103.120.172.74:5500
+
 
 #EXTINF:-1 group-title="Wifi",Live Sports WiFi 
 http://50.50.50.60:8088/101/index.m3u8
@@ -49,9 +66,9 @@ http://50.50.50.60:8088/102/index.m3u8
 http://50.50.50.60:8088/106/index.m3u8
 #EXTINF:-1 group-title="Wifi",Star Sports 1 Wifi
 http://50.50.50.60:8088/110/index.m3u8
-EXTINF:-1 group-title="Wifi",Star Sports 2 wifi
+#EXTINF:-1 group-title="Wifi",Star Sports 2 wifi
 http://50.50.50.60:8088/115/index.m3u8
-#EXTINF:-1 tvg-logo="Wifi" ,Star Sports Select 1 wifi
+#EXTINF:-1 group-title="Wifi" ,Star Sports Select 1 wifi
 http://50.50.50.60:8088/123/index.m3u8
 #EXTINF:-1 group-title="Wifi" ,Sony Ten 1 wifi
 http://50.50.50.60:8088/119/index.m3u8
