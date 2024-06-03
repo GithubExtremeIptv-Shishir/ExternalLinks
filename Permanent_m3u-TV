@@ -1,0 +1,63 @@
+#EXTINF:-1 group-title="Toffee",Toffee Eng
+https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-1
+#EXTINF:-1 group-title="Toffee",Toffee Ban 
+https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-2
+#EXTINF:-1 group-title="Homeip",Sky Sports cricket 
+http://homeip.biz/team_Cc/index.m3u8
+#EXTINF:-1 group-title="Vip",Sky Sports cricket 
+http://flbl1.112421.net:8082/3238121/mpegts?token=GWV3XREOPY
+#EXTINF:-1 group-title="Homeip" ,SuperSport Cricket 
+https://homeip.biz/AF_S_CR/index.m3u8
+#EXTINF:-1 group-title="Vip" , SuperSport Cricket 
+http://flbl1.112421.net:8082/4151136/mpegts?token=GWV3XREOPY
+#EXTINF:-1 group-title="Vip" ,Willow HD
+http://flbl1.112421.net:8082/4165179/mpegts?token=GWV3XREOPY
+#EXTINF:-1 group-title="Vip",Willow xtra 
+http://flbl1.112421.net:8082/361988/mpegts?token=GWV3XREOPY
+#EXTINF:-1 group-title="Vip",Ten Sports 
+http://flbl1.112421.net:8082/4153883/mpegts?token=GWV3XREOPY
+#EXTINF:-1 group-title="Vip",PTV Sports 
+http://flbl1.112421.net:8082/4153868/mpegts?token=GWV3XREOPY
+#EXTINF:-1 group-title="Bdip" ,Star Sports 1
+https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
+#EXTINF:-1 group-title="Zing",Star Sports 1
+http://103.120.172.74:4600
+
+#EXTINF:-1 group-title="Homeip",Star Sports 3
+http://homeip.biz/IN_ST3_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="Homeip" ,Star Sports Select  2
+http://homeip.biz/IND_SL2/index.m3u8
+#EXTINF:-1 group-title="Zing",Star Sports Select 
+http://103.120.172.74:4700 
+
+#EXTINF:-1 group-title="Homeip",Tsports 
+http://humsab.xyz/GBanTv/index.m3u8
+#EXTINF:-1 group-title="Homeip",Sony Ten 1
+http://homeip.biz/SPTEN1HD/index.m3u8
+#EXTINF:-1 group-title="Homeip",Sony Ten 2
+http://homeip.biz/IN_SNT2/index.m3u8
+#EXTINF:-1 group-title="Homeip",Sony Ten 3
+http://homeip.biz/tenso3/index.m3u8
+
+
+#EXTINF:-1 group-title="Wifi",Live Sports WiFi 
+http://50.50.50.60:8088/101/index.m3u8
+#EXTINF:-1 group-title="Wifi",Tsports Wifi
+http://50.50.50.60:8088/102/index.m3u8
+#EXTINF:-1 group-title="Wifi" ,Gazi Tv Wifi
+http://50.50.50.60:8088/106/index.m3u8
+#EXTINF:-1 group-title="Wifi",Star Sports 1 Wifi
+http://50.50.50.60:8088/110/index.m3u8
+EXTINF:-1 group-title="Wifi",Star Sports 2 wifi
+http://50.50.50.60:8088/115/index.m3u8
+#EXTINF:-1 tvg-logo="Wifi" ,Star Sports Select 1 wifi
+http://50.50.50.60:8088/123/index.m3u8
+#EXTINF:-1 group-title="Wifi" ,Sony Ten 1 wifi
+http://50.50.50.60:8088/119/index.m3u8
+#EXTINF:-1 group-title="Wifi",Sony Ten 2
+http://50.50.50.60:8088/120/index.m3u8
+#EXTINF:-1 group-title="Wifi",Sony ten 3 wifi
+http://50.50.50.60:8088/121/index.m3u8
+#EXTINF:-1 group-title="Wifi",Ptv sports wifi
+http://50.50.50.60:8088/125/index.m3u8
